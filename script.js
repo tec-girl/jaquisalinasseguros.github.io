@@ -5,7 +5,8 @@
   /* ========= CONFIGURACIÓN (editar aquí) ========= */
   var CONFIG = {
     whatsapp: '522221169215',   // ← número de Jaqui con código de país, solo dígitos (ej. '5212212345678')
-    formUrl: ''     // ← enlace del Google Forms de cotización
+    formUrl: 'https://forms.gle/cEDkt9DMWfAemaGq7',
+    formEmbed: 'https://docs.google.com/forms/d/e/1FAIpQLSeg7cu5tlxc9YHIM5CEiijrmiksz0KKPdqqLbZpvMFiw_d-mw/viewform?embedded=true'     // ← enlace del Google Forms de cotización
   };
   var WA_TEXT = {
     general: 'Hola Jaqui, quiero cotizar un seguro. ¿Me ayudas?',
@@ -446,6 +447,15 @@
   document.querySelectorAll('.reveal').forEach(function (el) {
     if (io) io.observe(el); else el.classList.add('in');
   });
+
+  var fe = document.getElementById('formEmbed');
+  if (fe && CONFIG.formEmbed) {
+    var ifr = document.createElement('iframe');
+    ifr.src = CONFIG.formEmbed;
+    ifr.title = 'Formulario de cotización';
+    ifr.setAttribute('loading', 'lazy');
+    fe.appendChild(ifr);
+  }
 
   wireLinks();
 })();

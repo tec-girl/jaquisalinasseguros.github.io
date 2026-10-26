@@ -218,3 +218,6 @@ a{color:var(--teal)}
 .bot-chip{border:1px solid var(--teal);color:var(--teal);background:#fff;border-radius:999px;padding:.38rem .8rem;
   font-size:.8rem;font-weight:600;cursor:pointer;transition:.2s}
 .bot-chip:hover{background:var(--teal);color:#fff}
+
+/* Formulario de Google incrustado */
+#formEmbed iframe{width:100%;height:640px;border:0;background:#fff;box-shadow:0 8px 24px rgba(7,48,58,.12)}
