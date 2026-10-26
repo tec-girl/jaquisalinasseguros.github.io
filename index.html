@@ -23,6 +23,8 @@
     <a href="#seguros" data-i18n="nav.products">Seguros</a>
     <a href="#proceso" data-i18n="nav.process">Proceso</a>
     <a href="#sobre-mi" data-i18n="nav.about">Sobre mí</a>
+    <a href="#galeria" data-i18n="nav.gallery">Galería</a>
+    <a href="#videos" data-i18n="nav.videos">Videos</a>
     <a href="#preguntas" data-i18n="nav.faq">Preguntas</a>
     <a href="#contacto" data-i18n="nav.contact">Contacto</a>
     <span class="lang-switch" role="group" aria-label="Language / Idioma">
@@ -40,6 +42,7 @@
   <!-- ===== HERO ===== -->
   <section class="hero">
     <div class="hero-text reveal">
+      <img class="hero-logo" src="assets/logo-grande.png" alt="Jaqui Salinas Seguros — logo">
       <p class="kicker" data-i18n="hero.kicker">ASESORÍA EN SEGUROS</p>
       <h1 data-i18n="hero.title">Protege lo que más quieres, con un plan a tu medida</h1>
       <p class="hero-sub" data-i18n="hero.sub">Seguros de auto, retiro, gastos médicos, vida y educación, con asesoría personal antes, durante y después de contratar.</p>
@@ -50,7 +53,7 @@
       <p class="hero-trust" data-i18n="hero.trust">Atención personal · Sin compromiso · Respuesta el mismo día</p>
     </div>
     <figure class="hero-photo reveal">
-      <img src="assets/foto-jaqui.png" alt="Jaqueline Salinas, asesora de seguros">
+      <img src="assets/foto-portada.jpg" alt="Jaqueline Salinas, asesora de seguros">
       <figcaption>Jaqueline Salinas</figcaption>
     </figure>
   </section>
@@ -138,13 +141,54 @@
   <section class="seccion" id="sobre-mi">
     <div class="about">
       <figure class="about-photo reveal">
-        <img src="assets/foto-jaqui.png" alt="Jaqueline Salinas, asesora de seguros">
+        <img src="assets/foto-2.jpg" alt="Jaqueline Salinas, asesora de seguros">
       </figure>
       <div class="about-text reveal">
         <p class="sec-kicker" data-i18n="about.kicker">SOBRE MÍ</p>
         <h2 class="sec-title left" data-i18n="about.title">Hola, soy Jaqueline Salinas</h2>
         <p data-i18n="about.d1">Soy asesora de seguros y mi trabajo es que entiendas exactamente qué estás contratando: sin letras chicas ni presiones.</p>
         <p data-i18n="about.d2">Te acompaño a elegir la protección ideal para ti y tu familia —auto, salud, vida, retiro y la educación de tus hijos— y sigo a tu lado cuando la necesites usar.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== GALERÍA ===== -->
+  <section class="seccion" id="galeria">
+    <p class="sec-kicker reveal" data-i18n="gal.kicker">GALERÍA</p>
+    <h2 class="sec-title reveal" data-i18n="gal.title">Conóceme</h2>
+    <div class="gallery">
+      <figure class="g-card reveal">
+        <img src="assets/foto-portada.jpg" alt="Jaqueline Salinas — retrato profesional" loading="lazy">
+        <figcaption data-i18n="gal.c1">Asesoría personal</figcaption>
+      </figure>
+      <figure class="g-card reveal">
+        <img src="assets/foto-2.jpg" alt="Jaqueline Salinas en su oficina" loading="lazy">
+        <figcaption data-i18n="gal.c2">Atención cercana</figcaption>
+      </figure>
+      <figure class="g-card reveal">
+        <img src="assets/foto-3.jpg" alt="Jaqueline Salinas — sesión ejecutiva" loading="lazy">
+        <figcaption data-i18n="gal.c3">Imagen ejecutiva</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <!-- ===== VIDEOS ===== -->
+  <section class="seccion alt" id="videos">
+    <p class="sec-kicker reveal" data-i18n="vid.kicker">VIDEOS</p>
+    <h2 class="sec-title reveal" data-i18n="vid.title">Aprende de seguros en video</h2>
+    <div class="videos">
+      <div class="v-frame reveal">
+        <h3 data-i18n="vid.tiktok">Sígueme en TikTok</h3>
+        <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@jaquesalinaszarat" data-unique-id="jaquesalinaszarat" data-embed-type="creator" style="max-width: 780px; min-width: 288px;">
+          <section><a target="_blank" rel="noopener" href="https://www.tiktok.com/@jaquesalinaszarat">@jaquesalinaszarat</a></section>
+        </blockquote>
+        <script async src="https://www.tiktok.com/embed.js"></script>
+      </div>
+      <div class="v-frame reveal">
+        <h3 data-i18n="vid.more">Más videos</h3>
+        <div class="v-slot"><span class="v-play">▶</span><span data-i18n="vid.soon">Muy pronto</span></div>
+        <div class="v-slot"><span class="v-play">▶</span><span data-i18n="vid.soon">Muy pronto</span></div>
+        <div class="v-slot"><span class="v-play">▶</span><span data-i18n="vid.soon">Muy pronto</span></div>
       </div>
     </div>
   </section>
@@ -217,6 +261,14 @@
 <a class="wa-float" data-wa="general" href="#contacto" aria-label="WhatsApp">
   <svg viewBox="0 0 32 32" width="30" height="30" fill="currentColor" aria-hidden="true"><path d="M16 3C9.4 3 4 8.4 4 15c0 2.4.7 4.6 2 6.4L4 29l7.8-2c1.3.6 2.7 1 4.2 1 6.6 0 12-5.4 12-12S22.6 3 16 3zm0 21.8c-1.3 0-2.6-.3-3.7-.9l-.3-.2-4.6 1.2 1.2-4.5-.2-.3c-.8-1.2-1.2-2.6-1.2-4.1 0-5.4 4.4-9.8 9.8-9.8S25.8 9.6 25.8 15 21.4 24.8 16 24.8zm5.4-7.1c-.3-.2-1.8-.9-2-1-.3-.1-.5-.2-.7.1-.2.3-.8 1-.9 1.1-.2.2-.3.2-.6.1-.3-.2-1.3-.5-2.4-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.5.1-.6l.5-.5c.1-.2.2-.3.3-.5.1-.2 0-.4 0-.5l-.9-2.2c-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5s1.1 2.9 1.2 3.1c.2.2 2.1 3.2 5.1 4.5.7.3 1.3.5 1.7.6.7.2 1.4.2 1.9.1.6-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.1-.1-.3-.2-.6-.4z"/></svg>
 </a>
+
+<div id="carCursor" aria-hidden="true">
+  <svg viewBox="0 0 64 36" width="54" height="30">
+    <path d="M6 24 L12 13 Q14 9 20 9 L34 9 Q42 9 48 15 L56 19 Q59 20 59 24 L59 26 Q59 28 57 28 L52 28 A8 8 0 0 0 36 28 L24 28 A8 8 0 0 0 8 28 L7 28 Q5 28 5 26 Z" fill="#0c4654" stroke="#c9a24b" stroke-width="1.6"/>
+    <g class="wheel"><circle cx="16" cy="28" r="5.2" fill="#12242c" stroke="#c9a24b" stroke-width="1.4"/><path d="M16 23.5 V32.5 M11.5 28 H20.5" stroke="#c9a24b" stroke-width="1.2"/></g>
+    <g class="wheel"><circle cx="44" cy="28" r="5.2" fill="#12242c" stroke="#c9a24b" stroke-width="1.4"/><path d="M44 23.5 V32.5 M39.5 28 H48.5" stroke="#c9a24b" stroke-width="1.2"/></g>
+  </svg>
+</div>
 
 <script src="script.js"></script>
 </body>

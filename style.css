@@ -152,3 +152,44 @@ a{color:var(--teal)}
   .about-text .sec-kicker,.sec-title.left{text-align:center}
   .menu{gap:.9rem}
 }
+
+/* ===== INFO DE CONTACTO ===== */
+.ct-info{max-width:900px;margin:2.2rem auto 0;text-align:center;background:#fff;border:1px solid var(--line);padding:1.6rem 1.4rem}
+.ct-info p{font-size:.93rem;color:var(--dim);margin-bottom:.5rem}
+.ct-info a{font-weight:600}
+.ct-social a{letter-spacing:.04em}
+
+/* ===== LOGO GRANDE + PORTADA + GALERÍA + VIDEOS + CURSOR ===== */
+.brand img{height:58px}
+.hero-logo{width:150px;height:auto;border-radius:16px;margin-bottom:1.3rem;
+  box-shadow:0 16px 40px rgba(0,0,0,.35);animation:floaty 5.5s ease-in-out infinite}
+@keyframes floaty{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+.hero-photo img{width:min(340px,72vw);border-radius:14px;animation:floaty 7s ease-in-out infinite}
+.about-photo img{border-radius:14px}
+.gallery{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1.3rem}
+.g-card{overflow:hidden;border:1px solid var(--line);background:#fff}
+.g-card img{width:100%;aspect-ratio:3/4;object-fit:cover;display:block;transition:transform .5s ease}
+.g-card:hover img{transform:scale(1.05)}
+.g-card figcaption{padding:.8rem 1rem;font-family:var(--serif);font-style:italic;color:var(--teal-ink);text-align:center}
+.videos{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:1.4rem;align-items:start}
+.v-frame{background:#fff;border:1px solid var(--line);padding:1.6rem 1.4rem}
+.v-frame h3{font-family:var(--serif);color:var(--teal-ink);font-size:1.25rem;margin-bottom:1rem;text-align:center}
+.v-slot{aspect-ratio:16/9;background:linear-gradient(140deg,var(--teal),var(--teal-dark));color:#fff;
+  display:flex;flex-direction:column;gap:.4rem;align-items:center;justify-content:center;margin-bottom:1rem;
+  font-size:.85rem;letter-spacing:.14em;text-transform:uppercase}
+.v-play{font-size:1.7rem;color:var(--gold-soft)}
+#carCursor{position:fixed;left:0;top:0;z-index:9999;pointer-events:none;opacity:0;transition:opacity .3s;
+  filter:drop-shadow(0 4px 6px rgba(0,0,0,.35))}
+#carCursor .wheel{transform-box:fill-box;transform-origin:center;animation:spin .45s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@media (pointer:fine){
+  body, a, button, .faq-q{cursor:none}
+}
+@media (pointer:coarse){
+  #carCursor{display:none}
+}
+@media (prefers-reduced-motion: reduce){
+  .hero-logo,.hero-photo img{animation:none}
+  #carCursor{display:none}
+  body, a, button, .faq-q{cursor:auto}
+}
