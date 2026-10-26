@@ -4,7 +4,7 @@
 
   /* ========= CONFIGURACIÓN (editar aquí) ========= */
   var CONFIG = {
-    whatsapp: '',   // ← número de Jaqui con código de país, solo dígitos (ej. '5212212345678')
+    whatsapp: '522221169215',   // ← número de Jaqui con código de país, solo dígitos (ej. '5212212345678')
     formUrl: ''     // ← enlace del Google Forms de cotización
   };
   var WA_TEXT = {
@@ -105,7 +105,7 @@
     "ct.form.t": "Quote form",
     "ct.form.d": "Fill out the Google form with your details and what you want to protect; with that I prepare your quote.",
     "ct.form.btn": "Open the form",
-    "foot.line": "Personal advice on auto, retirement, medical, life and education insurance.",
+    "ct.office": "Office", "ct.follow": "Follow me", "foot.line": "Personal advice on auto, retirement, medical, life and education insurance.",
     "foot.credit": "Website created by"
   },
   "fr": {
@@ -175,7 +175,7 @@
     "ct.form.t": "Formulaire de devis",
     "ct.form.d": "Remplissez le formulaire Google avec vos coordonnées et ce que vous voulez protéger ; je prépare votre devis.",
     "ct.form.btn": "Ouvrir le formulaire",
-    "foot.line": "Conseil personnalisé en assurance auto, retraite, frais médicaux, vie et éducation.",
+    "ct.office": "Bureau", "ct.follow": "Suivez-moi", "foot.line": "Conseil personnalisé en assurance auto, retraite, frais médicaux, vie et éducation.",
     "foot.credit": "Site créé par"
   },
   "de": {
@@ -245,7 +245,7 @@
     "ct.form.t": "Angebotsformular",
     "ct.form.d": "Füllen Sie das Google-Formular mit Ihren Daten aus und was Sie schützen möchten; damit bereite ich Ihr Angebot vor.",
     "ct.form.btn": "Formular öffnen",
-    "foot.line": "Persönliche Beratung zu Auto, Ruhestand, Krankheit, Leben und Ausbildung.",
+    "ct.office": "Büro", "ct.follow": "Folgen Sie mir", "foot.line": "Persönliche Beratung zu Auto, Ruhestand, Krankheit, Leben und Ausbildung.",
     "foot.credit": "Website erstellt von"
   },
   "pt": {
@@ -315,7 +315,7 @@
     "ct.form.t": "Formulário de cotação",
     "ct.form.d": "Preencha o formulário do Google com seus dados e o que quer proteger; com isso preparo sua cotação.",
     "ct.form.btn": "Abrir o formulário",
-    "foot.line": "Consultoria pessoal em seguros de auto, aposentadoria, despesas médicas, vida e segubecas.",
+    "ct.office": "Escritório", "ct.follow": "Siga-me", "foot.line": "Consultoria pessoal em seguros de auto, aposentadoria, despesas médicas, vida e segubecas.",
     "foot.credit": "Site criado por"
   },
   "zh": {
@@ -385,7 +385,7 @@
     "ct.form.t": "报价表单",
     "ct.form.d": "填写 Google 表单，留下您的资料和想保护的内容；我会据此准备报价。",
     "ct.form.btn": "打开表单",
-    "foot.line": "汽车、退休、医疗、寿险与教育保险的专人咨询。",
+    "ct.office": "办公室", "ct.follow": "关注我", "foot.line": "汽车、退休、医疗、寿险与教育保险的专人咨询。",
     "foot.credit": "网站由"
   }
 };
