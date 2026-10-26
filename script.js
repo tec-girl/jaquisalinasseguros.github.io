@@ -105,7 +105,7 @@
     "ct.form.t": "Quote form",
     "ct.form.d": "Fill out the Google form with your details and what you want to protect; with that I prepare your quote.",
     "ct.form.btn": "Open the form",
-    "ct.office": "Office", "ct.follow": "Follow me", "nav.gallery": "Gallery", "nav.videos": "Videos", "gal.kicker": "GALLERY", "gal.title": "Meet me", "gal.c1": "Personal advice", "gal.c2": "Close attention", "gal.c3": "Executive image", "vid.kicker": "VIDEOS", "vid.title": "Learn about insurance on video", "vid.tiktok": "Follow me on TikTok", "vid.more": "More videos", "vid.soon": "Coming soon", "foot.line": "Personal advice on auto, retirement, medical, life and education insurance.",
+    "ct.office": "Office", "ct.follow": "Follow me", "nav.gallery": "Gallery", "nav.videos": "Videos", "gal.kicker": "GALLERY", "gal.title": "Meet me", "gal.c1": "Personal advice", "gal.c2": "Close attention", "gal.c3": "Executive image", "vid.kicker": "VIDEOS", "vid.title": "Learn about insurance on video", "vid.tiktok": "Follow me on TikTok", "vid.more": "More videos", "vid.soon": "Coming soon", "bot.open": "Can I help?", "bot.title": "Jaqui's Assistant", "bot.online": "Online · Instant reply", "foot.line": "Personal advice on auto, retirement, medical, life and education insurance.",
     "foot.credit": "Website created by"
   },
   "fr": {
@@ -175,7 +175,7 @@
     "ct.form.t": "Formulaire de devis",
     "ct.form.d": "Remplissez le formulaire Google avec vos coordonnées et ce que vous voulez protéger ; je prépare votre devis.",
     "ct.form.btn": "Ouvrir le formulaire",
-    "ct.office": "Bureau", "ct.follow": "Suivez-moi", "nav.gallery": "Galerie", "nav.videos": "Vidéos", "gal.kicker": "GALERIE", "gal.title": "Faites ma connaissance", "gal.c1": "Conseil personnalisé", "gal.c2": "Attention proche", "gal.c3": "Image exécutive", "vid.kicker": "VIDÉOS", "vid.title": "Apprenez l'assurance en vidéo", "vid.tiktok": "Suivez-moi sur TikTok", "vid.more": "Plus de vidéos", "vid.soon": "Bientôt", "foot.line": "Conseil personnalisé en assurance auto, retraite, frais médicaux, vie et éducation.",
+    "ct.office": "Bureau", "ct.follow": "Suivez-moi", "nav.gallery": "Galerie", "nav.videos": "Vidéos", "gal.kicker": "GALERIE", "gal.title": "Faites ma connaissance", "gal.c1": "Conseil personnalisé", "gal.c2": "Attention proche", "gal.c3": "Image exécutive", "vid.kicker": "VIDÉOS", "vid.title": "Apprenez l'assurance en vidéo", "vid.tiktok": "Suivez-moi sur TikTok", "vid.more": "Plus de vidéos", "vid.soon": "Bientôt", "bot.open": "Je peux aider ?", "bot.title": "Assistant de Jaqui", "bot.online": "En ligne · Réponse immédiate", "foot.line": "Conseil personnalisé en assurance auto, retraite, frais médicaux, vie et éducation.",
     "foot.credit": "Site créé par"
   },
   "de": {
@@ -245,7 +245,7 @@
     "ct.form.t": "Angebotsformular",
     "ct.form.d": "Füllen Sie das Google-Formular mit Ihren Daten aus und was Sie schützen möchten; damit bereite ich Ihr Angebot vor.",
     "ct.form.btn": "Formular öffnen",
-    "ct.office": "Büro", "ct.follow": "Folgen Sie mir", "nav.gallery": "Galerie", "nav.videos": "Videos", "gal.kicker": "GALERIE", "gal.title": "Lernen Sie mich kennen", "gal.c1": "Persönliche Beratung", "gal.c2": "Nahe Betreuung", "gal.c3": "Executive-Image", "vid.kicker": "VIDEOS", "vid.title": "Versicherung im Video lernen", "vid.tiktok": "Folgen Sie mir auf TikTok", "vid.more": "Mehr Videos", "vid.soon": "Demnächst", "foot.line": "Persönliche Beratung zu Auto, Ruhestand, Krankheit, Leben und Ausbildung.",
+    "ct.office": "Büro", "ct.follow": "Folgen Sie mir", "nav.gallery": "Galerie", "nav.videos": "Videos", "gal.kicker": "GALERIE", "gal.title": "Lernen Sie mich kennen", "gal.c1": "Persönliche Beratung", "gal.c2": "Nahe Betreuung", "gal.c3": "Executive-Image", "vid.kicker": "VIDEOS", "vid.title": "Versicherung im Video lernen", "vid.tiktok": "Folgen Sie mir auf TikTok", "vid.more": "Mehr Videos", "vid.soon": "Demnächst", "bot.open": "Kann ich helfen?", "bot.title": "Jaquis Assistent", "bot.online": "Online · Sofortige Antwort", "foot.line": "Persönliche Beratung zu Auto, Ruhestand, Krankheit, Leben und Ausbildung.",
     "foot.credit": "Website erstellt von"
   },
   "pt": {
@@ -315,7 +315,7 @@
     "ct.form.t": "Formulário de cotação",
     "ct.form.d": "Preencha o formulário do Google com seus dados e o que quer proteger; com isso preparo sua cotação.",
     "ct.form.btn": "Abrir o formulário",
-    "ct.office": "Escritório", "ct.follow": "Siga-me", "nav.gallery": "Galeria", "nav.videos": "Vídeos", "gal.kicker": "GALERIA", "gal.title": "Conheça-me", "gal.c1": "Consultoria pessoal", "gal.c2": "Atendimento próximo", "gal.c3": "Imagem executiva", "vid.kicker": "VÍDEOS", "vid.title": "Aprenda sobre seguros em vídeo", "vid.tiktok": "Siga-me no TikTok", "vid.more": "Mais vídeos", "vid.soon": "Em breve", "foot.line": "Consultoria pessoal em seguros de auto, aposentadoria, despesas médicas, vida e segubecas.",
+    "ct.office": "Escritório", "ct.follow": "Siga-me", "nav.gallery": "Galeria", "nav.videos": "Vídeos", "gal.kicker": "GALERIA", "gal.title": "Conheça-me", "gal.c1": "Consultoria pessoal", "gal.c2": "Atendimento próximo", "gal.c3": "Imagem executiva", "vid.kicker": "VÍDEOS", "vid.title": "Aprenda sobre seguros em vídeo", "vid.tiktok": "Siga-me no TikTok", "vid.more": "Mais vídeos", "vid.soon": "Em breve", "bot.open": "Posso ajudar?", "bot.title": "Assistente da Jaqui", "bot.online": "Online · Resposta imediata", "foot.line": "Consultoria pessoal em seguros de auto, aposentadoria, despesas médicas, vida e segubecas.",
     "foot.credit": "Site criado por"
   },
   "zh": {
@@ -385,7 +385,7 @@
     "ct.form.t": "报价表单",
     "ct.form.d": "填写 Google 表单，留下您的资料和想保护的内容；我会据此准备报价。",
     "ct.form.btn": "打开表单",
-    "ct.office": "办公室", "ct.follow": "关注我", "nav.gallery": "画廊", "nav.videos": "视频", "gal.kicker": "画廊", "gal.title": "认识我", "gal.c1": "专人咨询", "gal.c2": "贴心服务", "gal.c3": "专业形象", "vid.kicker": "视频", "vid.title": "通过视频了解保险", "vid.tiktok": "在 TikTok 关注我", "vid.more": "更多视频", "vid.soon": "即将推出", "foot.line": "汽车、退休、医疗、寿险与教育保险的专人咨询。",
+    "ct.office": "办公室", "ct.follow": "关注我", "nav.gallery": "画廊", "nav.videos": "视频", "gal.kicker": "画廊", "gal.title": "认识我", "gal.c1": "专人咨询", "gal.c2": "贴心服务", "gal.c3": "专业形象", "vid.kicker": "视频", "vid.title": "通过视频了解保险", "vid.tiktok": "在 TikTok 关注我", "vid.more": "更多视频", "vid.soon": "即将推出", "bot.open": "需要帮助吗？", "bot.title": "Jaqui 的助理", "bot.online": "在线 · 即时回复", "foot.line": "汽车、退休、医疗、寿险与教育保险的专人咨询。",
     "foot.credit": "网站由"
   }
 };
@@ -473,4 +473,152 @@
     car.style.transform = 'translate(' + (x - 27) + 'px,' + (y - 30) + 'px) scaleX(' + flip + ') rotate(' + (flip === 1 ? tilt : -tilt) + 'deg)';
     requestAnimationFrame(loop);
   })();
+})();
+
+/* ===== BOT INTEGRADO DE JAQUI ===== */
+(function () {
+  var BT = {
+    es: { hi: '¡Hola! 👋 Soy el asistente virtual de Jaqui Salinas Seguros. ¿Qué te gustaría cotizar?', auto: '🚗 Seguro de Auto', retiro: '🌅 Plan de Retiro', medicos: '🏥 Gastos Médicos', vida: '💙 Seguro de Vida', becas: '🎓 Segubecas', talk: '💬 Hablar con Jaqui',
+      r_auto: '¡Excelente elección! Un seguro de auto te protege ante accidentes, robo y daños a terceros. Jaqui te cotiza en minutos, sin compromiso.',
+      r_retiro: '¡Gran decisión! Un Plan Personal de Retiro se construye con aportaciones a tu ritmo — y empezar joven hace una diferencia enorme.',
+      r_medicos: 'Muy bien pensado. Con gastos médicos mayores accedes a hospitales privados sin que una emergencia se vuelva una deuda.',
+      r_vida: 'Proteger a tu familia es el mejor regalo. Un seguro de vida les da respaldo económico pase lo que pase, con primas accesibles.',
+      r_becas: '¡Qué bonito plan! Una segubeca ahorra para la universidad de tus hijos y, si llegaras a faltar, el plan continúa.',
+      r_talk: 'Claro, te comunico directo con Jaqui por WhatsApp. Te responde personalmente el mismo día.',
+      wa: 'Cotizar por WhatsApp →', more: 'Ver otros seguros', form: 'Prefiero el formulario', formMsg: 'Perfecto: el formulario está en la sección de Contacto de esta página. Toca «Abrir el formulario» y con tus datos Jaqui prepara tu cotización.' },
+    en: { hi: 'Hi! 👋 I am the virtual assistant of Jaqui Salinas Insurance. What would you like a quote for?', auto: '🚗 Auto Insurance', retiro: '🌅 Retirement Plan', medicos: '🏥 Medical Expenses', vida: '💙 Life Insurance', becas: '🎓 Education Plans', talk: '💬 Talk to Jaqui',
+      r_auto: 'Excellent choice! Auto insurance protects you against accidents, theft and third-party damage. Jaqui quotes you in minutes, no obligation.',
+      r_retiro: 'Great decision! A Personal Retirement Plan is built with contributions at your pace — and starting young makes a huge difference.',
+      r_medicos: 'Well thought out. Major medical insurance gives you access to private hospitals without an emergency becoming a debt.',
+      r_vida: 'Protecting your family is the best gift. Life insurance gives them financial backing whatever happens, with affordable premiums.',
+      r_becas: 'What a lovely plan! An education plan saves for your children\'s university and, if you were gone, the plan continues.',
+      r_talk: 'Of course, I will connect you directly with Jaqui on WhatsApp. She replies personally the same day.',
+      wa: 'Get a quote on WhatsApp →', more: 'See other insurance', form: 'I prefer the form', formMsg: 'Perfect: the form is in the Contact section of this page. Tap "Open the form" and with your details Jaqui will prepare your quote.' },
+    fr: { hi: 'Bonjour ! 👋 Je suis l\'assistant virtuel de Jaqui Salinas Assurances. Que souhaitez-vous assurer ?', auto: '🚗 Assurance Auto', retiro: '🌅 Plan de Retraite', medicos: '🏥 Frais Médicaux', vida: '💙 Assurance Vie', becas: '🎓 Segubecas', talk: '💬 Parler à Jaqui',
+      r_auto: 'Excellent choix ! L\'assurance auto vous protège contre les accidents, le vol et les dommages à des tiers. Jaqui vous fait un devis en quelques minutes, sans engagement.',
+      r_retiro: 'Grande décision ! Un Plan Personnel de Retraite se construit avec des contributions à votre rythme — et commencer jeune change tout.',
+      r_medicos: 'Bien pensé. Avec une assurance frais médicaux, vous accédez aux hôpitaux privés sans qu\'une urgence devienne une dette.',
+      r_vida: 'Protéger votre famille est le plus beau cadeau. L\'assurance vie leur donne un soutien financier quoi qu\'il arrive, avec des primes accessibles.',
+      r_becas: 'Quel beau projet ! Une segubeca épargne pour l\'université de vos enfants et, si vous veniez à manquer, le plan continue.',
+      r_talk: 'Bien sûr, je vous mets en contact direct avec Jaqui sur WhatsApp. Elle répond personnellement le jour même.',
+      wa: 'Devis par WhatsApp →', more: 'Voir d\'autres assurances', form: 'Je préfère le formulaire', formMsg: 'Parfait : le formulaire se trouve dans la section Contact de cette page. Touchez « Ouvrir le formulaire » et Jaqui préparera votre devis.' },
+    de: { hi: 'Hallo! 👋 Ich bin der virtuelle Assistent von Jaqui Salinas Versicherungen. Was möchten Sie versichern?', auto: '🚗 Kfz-Versicherung', retiro: '🌅 Ruhestandsplan', medicos: '🏥 Krankenzusatz', vida: '💙 Lebensversicherung', becas: '🎓 Ausbildung', talk: '💬 Mit Jaqui sprechen',
+      r_auto: 'Ausgezeichnete Wahl! Eine Kfz-Versicherung schützt Sie bei Unfällen, Diebstahl und Schäden an Dritten. Jaqui erstellt Ihr Angebot in wenigen Minuten, unverbindlich.',
+      r_retiro: 'Großartige Entscheidung! Ein Persönlicher Ruhestandsplan wächst mit Beiträgen in Ihrem Tempo — und früh zu starten macht einen riesigen Unterschied.',
+      r_medicos: 'Gut überlegt. Mit einer Krankenzusatzversicherung erhalten Sie Zugang zu Privatkliniken, ohne dass ein Notfall zur Schuld wird.',
+      r_vida: 'Ihre Familie zu schützen ist das beste Geschenk. Eine Lebensversicherung gibt ihr finanziellen Rückhalt — was auch geschieht, mit bezahlbaren Beiträgen.',
+      r_becas: 'Was für ein schöner Plan! Eine Segubeca spart für das Studium Ihrer Kinder und läuft weiter, sollten Sie fehlen.',
+      r_talk: 'Natürlich, ich verbinde Sie direkt per WhatsApp mit Jaqui. Sie antwortet noch am selben Tag persönlich.',
+      wa: 'Angebot per WhatsApp →', more: 'Andere Versicherungen', form: 'Ich bevorzuge das Formular', formMsg: 'Perfekt: Das Formular finden Sie im Kontaktbereich dieser Seite. Tippen Sie auf „Formular öffnen“ und Jaqui bereitet Ihr Angebot vor.' },
+    pt: { hi: 'Olá! 👋 Sou o assistente virtual da Jaqui Salinas Seguros. O que você gostaria de cotar?', auto: '🚗 Seguro de Auto', retiro: '🌅 Plano de Aposentadoria', medicos: '🏥 Despesas Médicas', vida: '💙 Seguro de Vida', becas: '🎓 Segubecas', talk: '💬 Falar com a Jaqui',
+      r_auto: 'Excelente escolha! Um seguro de auto protege você contra acidentes, roubo e danos a terceiros. A Jaqui cota em minutos, sem compromisso.',
+      r_retiro: 'Ótima decisão! Um Plano Pessoal de Aposentadoria se constrói com contribuições no seu ritmo — e começar jovem faz uma diferença enorme.',
+      r_medicos: 'Muito bem pensado. Com despesas médicas maiores você acessa hospitais privados sem que uma emergência vire dívida.',
+      r_vida: 'Proteger sua família é o melhor presente. Um seguro de vida dá respaldo financeiro aconteça o que acontecer, com prêmios acessíveis.',
+      r_becas: 'Que plano bonito! Uma segubeca poupa para a universidade dos seus filhos e, se você faltar, o plano continua.',
+      r_talk: 'Claro, conecto você direto com a Jaqui pelo WhatsApp. Ela responde pessoalmente no mesmo dia.',
+      wa: 'Cotar pelo WhatsApp →', more: 'Ver outros seguros', form: 'Prefiro o formulário', formMsg: 'Perfeito: o formulário está na seção de Contato desta página. Toque em «Abrir o formulário» e com seus dados a Jaqui prepara sua cotação.' },
+    zh: { hi: '您好！👋 我是 Jaqui Salinas 保险的虚拟助理。您想咨询哪种保险？', auto: '🚗 汽车保险', retiro: '🌅 退休计划', medicos: '🏥 医疗费用', vida: '💙 人寿保险', becas: '🎓 教育保险', talk: '💬 直接联系 Jaqui',
+      r_auto: '非常好的选择！汽车保险为您提供事故、盗窃和第三方损失保障。Jaqui 可在几分钟内为您报价，无需承诺。',
+      r_retiro: '明智的决定！个人退休计划按您的节奏缴款——越早开始，差别越大。',
+      r_medicos: '考虑得很周到。大额医疗费用保险让您能使用私立医院，不让紧急情况变成债务。',
+      r_vida: '守护家人是最好的礼物。人寿保险无论发生什么都为他们提供经济支持，保费亲民。',
+      r_becas: '多么美好的计划！教育保险为孩子的大学储蓄，即使您不在了，计划也会继续。',
+      r_talk: '好的，我直接通过 WhatsApp 为您联系 Jaqui。她会在当日亲自回复。',
+      wa: '通过 WhatsApp 报价 →', more: '查看其他保险', form: '我更喜欢填表单', formMsg: '好的：表单在本页的联系部分。点击“打开表单”，Jaqui 会根据您的资料准备报价。' }
+  };
+
+  var btn = document.getElementById('botBtn');
+  var panel = document.getElementById('botPanel');
+  var body = document.getElementById('botBody');
+  var chipsBox = document.getElementById('botChips');
+  var closeBtn = document.getElementById('botClose');
+  if (!btn || !panel) return;
+
+  var lang = 'es';
+  try { lang = localStorage.getItem('jaqui-lang') || 'es'; } catch (e) {}
+  if (!BT[lang]) lang = 'es';
+  var started = false;
+
+  function T() { return BT[lang] || BT.es; }
+  function waHref(key) {
+    var a = document.querySelector('[data-wa="' + key + '"]');
+    return a ? a.href : '#contacto';
+  }
+  function addMsg(text, who) {
+    var d = document.createElement('div');
+    d.className = 'bot-msg ' + who;
+    d.textContent = text;
+    body.appendChild(d);
+    body.scrollTop = body.scrollHeight;
+    return d;
+  }
+  function setChips(list) {
+    chipsBox.innerHTML = '';
+    list.forEach(function (c) {
+      var b = document.createElement('button');
+      b.type = 'button';
+      b.className = 'bot-chip';
+      b.textContent = c.label;
+      b.addEventListener('click', function () { c.fn(); });
+      chipsBox.appendChild(b);
+    });
+  }
+  function mainChips() {
+    var t = T();
+    setChips([
+      { label: t.auto, fn: function () { product('auto'); } },
+      { label: t.retiro, fn: function () { product('retiro'); } },
+      { label: t.medicos, fn: function () { product('medicos'); } },
+      { label: t.vida, fn: function () { product('vida'); } },
+      { label: t.becas, fn: function () { product('becas'); } },
+      { label: t.talk, fn: function () { product('general'); } }
+    ]);
+  }
+  function product(key) {
+    var t = T();
+    var names = { auto: t.auto, retiro: t.retiro, medicos: t.medicos, vida: t.vida, becas: t.becas, general: t.talk };
+    addMsg(names[key], 'user');
+    chipsBox.innerHTML = '';
+    setTimeout(function () {
+      var reply = key === 'general' ? t.r_talk : t['r_' + key];
+      var d = addMsg(reply, 'bot');
+      var a = document.createElement('a');
+      a.className = 'bot-wa';
+      a.href = waHref(key);
+      a.target = '_blank';
+      a.rel = 'noopener';
+      a.textContent = t.wa;
+      d.appendChild(document.createElement('br'));
+      d.appendChild(a);
+      body.scrollTop = body.scrollHeight;
+      setChips([
+        { label: t.more, fn: function () { addMsg(t.hi, 'bot'); mainChips(); } },
+        { label: t.form, fn: function () { addMsg(t.formMsg, 'bot'); document.getElementById('formulario').scrollIntoView({ behavior: 'smooth' }); } }
+      ]);
+    }, 450);
+  }
+  function start() {
+    if (started) return;
+    started = true;
+    addMsg(T().hi, 'bot');
+    mainChips();
+  }
+
+  btn.addEventListener('click', function () {
+    var open = !panel.hidden;
+    panel.hidden = open;
+    if (!open) start();
+  });
+  closeBtn.addEventListener('click', function () { panel.hidden = true; });
+
+  document.querySelectorAll('.lang-switch button').forEach(function (b) {
+    b.addEventListener('click', function () {
+      var l = b.getAttribute('data-lang');
+      if (BT[l]) {
+        lang = l;
+        if (started) { body.innerHTML = ''; started = false; start(); }
+      }
+    });
+  });
 })();

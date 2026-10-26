@@ -193,3 +193,28 @@ a{color:var(--teal)}
   #carCursor{display:none}
   body, a, button, .faq-q{cursor:auto}
 }
+
+/* ===== BOT INTEGRADO ===== */
+#botBtn{position:fixed;left:1.2rem;bottom:1.2rem;z-index:70;background:var(--teal);color:#fff;border:1px solid var(--gold);
+  padding:.7rem 1.1rem;border-radius:999px;font-family:var(--sans);font-weight:700;font-size:.86rem;cursor:pointer;
+  box-shadow:0 10px 26px rgba(0,0,0,.3);display:flex;gap:.45rem;align-items:center;transition:.25s}
+#botBtn:hover{background:var(--teal-dark);transform:translateY(-2px)}
+#botPanel{position:fixed;left:1.2rem;bottom:5.2rem;z-index:71;width:min(350px,calc(100vw - 2.4rem));
+  background:#fff;border:1px solid var(--line);box-shadow:0 24px 60px rgba(7,48,58,.35);display:flex;flex-direction:column;
+  max-height:min(560px,72vh)}
+#botPanel[hidden]{display:none}
+.bot-head{background:var(--teal);color:#fff;display:flex;align-items:center;gap:.7rem;padding:.8rem 1rem}
+.bot-head img{height:36px;width:auto}
+.bot-head b{font-family:var(--serif);display:block;line-height:1.2}
+.bot-head small{color:var(--gold-soft);font-size:.72rem}
+#botClose{margin-left:auto;background:none;border:none;color:#fff;font-size:1rem;cursor:pointer;padding:.3rem}
+.bot-body{padding:1rem;overflow-y:auto;display:flex;flex-direction:column;gap:.55rem;background:var(--ivory)}
+.bot-msg{max-width:85%;padding:.6rem .8rem;font-size:.88rem;line-height:1.45;border-radius:12px}
+.bot-msg.bot{background:#fff;border:1px solid var(--line);align-self:flex-start;border-bottom-left-radius:2px}
+.bot-msg.user{background:var(--teal);color:#fff;align-self:flex-end;border-bottom-right-radius:2px}
+.bot-msg a.bot-wa{display:inline-block;margin-top:.5rem;background:#25d366;color:#fff;font-weight:700;
+  padding:.45rem .9rem;border-radius:999px;text-decoration:none;font-size:.8rem}
+.bot-chips{padding:.7rem 1rem;display:flex;flex-wrap:wrap;gap:.45rem;border-top:1px solid var(--line);background:#fff}
+.bot-chip{border:1px solid var(--teal);color:var(--teal);background:#fff;border-radius:999px;padding:.38rem .8rem;
+  font-size:.8rem;font-weight:600;cursor:pointer;transition:.2s}
+.bot-chip:hover{background:var(--teal);color:#fff}
