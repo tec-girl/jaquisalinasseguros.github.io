@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title data-i18n="pageTitle">Jaqui Salinas Seguros — Asesoría en seguros</title>
+<meta name="description" content="Jaqui Salinas Seguros: seguros de auto, plan personal de retiro, gastos médicos, seguros de vida y segubecas. Asesoría personal y cotización por WhatsApp.">
+<link rel="icon" type="image/png" href="assets/favicon.png">
+<meta name="theme-color" content="#0c4654">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,700;1,500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="nav">
+  <a class="brand" href="#top">
+    <img src="assets/shield.png" alt="Jaqui Salinas Seguros">
+    <span class="brand-text"><b>JAQUI SALINAS</b><i>SEGUROS</i></span>
+  </a>
+  <nav class="menu">
+    <a href="#seguros" data-i18n="nav.products">Seguros</a>
+    <a href="#proceso" data-i18n="nav.process">Proceso</a>
+    <a href="#sobre-mi" data-i18n="nav.about">Sobre mí</a>
+    <a href="#preguntas" data-i18n="nav.faq">Preguntas</a>
+    <a href="#contacto" data-i18n="nav.contact">Contacto</a>
+    <span class="lang-switch" role="group" aria-label="Language / Idioma">
+      <button type="button" data-lang="en">EN</button>
+      <button type="button" data-lang="es" class="active">ES</button>
+      <button type="button" data-lang="fr">FR</button>
+      <button type="button" data-lang="de">DE</button>
+      <button type="button" data-lang="zh">中文</button>
+      <button type="button" data-lang="pt">PT</button>
+    </span>
+  </nav>
+</header>
+
+<main id="top">
+  <!-- ===== HERO ===== -->
+  <section class="hero">
+    <div class="hero-text reveal">
+      <p class="kicker" data-i18n="hero.kicker">ASESORÍA EN SEGUROS</p>
+      <h1 data-i18n="hero.title">Protege lo que más quieres, con un plan a tu medida</h1>
+      <p class="hero-sub" data-i18n="hero.sub">Seguros de auto, retiro, gastos médicos, vida y educación, con asesoría personal antes, durante y después de contratar.</p>
+      <div class="hero-ctas">
+        <a class="btn btn-gold" data-wa="general" href="#contacto" data-i18n="hero.ctaWa">Cotizar por WhatsApp</a>
+        <a class="btn btn-line" data-form href="#formulario" data-i18n="hero.ctaForm">Llenar el formulario</a>
+      </div>
+      <p class="hero-trust" data-i18n="hero.trust">Atención personal · Sin compromiso · Respuesta el mismo día</p>
+    </div>
+    <figure class="hero-photo reveal">
+      <img src="assets/foto-jaqui.png" alt="Jaqueline Salinas, asesora de seguros">
+      <figcaption>Jaqueline Salinas</figcaption>
+    </figure>
+  </section>
+
+  <div class="marquee" aria-hidden="true">
+    <div class="marquee-track">
+      <span>SEGURO DE AUTO ✦ PLAN DE RETIRO ✦ GASTOS MÉDICOS ✦ SEGURO DE VIDA ✦ SEGUBECAS ✦ </span>
+      <span>SEGURO DE AUTO ✦ PLAN DE RETIRO ✦ GASTOS MÉDICOS ✦ SEGURO DE VIDA ✦ SEGUBECAS ✦ </span>
+    </div>
+  </div>
+
+  <!-- ===== SEGUROS ===== -->
+  <section class="seccion" id="seguros">
+    <p class="sec-kicker reveal" data-i18n="pr.kicker">COBERTURAS</p>
+    <h2 class="sec-title reveal" data-i18n="pr.title">Seguros para cada etapa de tu vida</h2>
+    <div class="cards">
+      <article class="card reveal">
+        <div class="card-icon">🚗</div>
+        <h3 data-i18n="pr.auto.t">Seguro de Auto</h3>
+        <p data-i18n="pr.auto.d">Protege tu coche y tu bolsillo ante accidentes, robo y daños a terceros, con asistencia vial incluida.</p>
+        <p class="card-feats" data-i18n="pr.auto.f">Cobertura amplia o limitada · Asistencia 24/7 · Pago a meses</p>
+        <a class="card-link" data-wa="auto" href="#contacto"><span data-i18n="pr.quote">Cotizar</span> →</a>
+      </article>
+      <article class="card reveal">
+        <div class="card-icon">🌅</div>
+        <h3 data-i18n="pr.ppr.t">Plan Personal de Retiro</h3>
+        <p data-i18n="pr.ppr.d">Construye desde hoy el ingreso que quieres disfrutar al retirarte, con aportaciones a tu ritmo.</p>
+        <p class="card-feats" data-i18n="pr.ppr.f">Aportaciones flexibles · Beneficios fiscales* · Desde joven rinde más</p>
+        <a class="card-link" data-wa="retiro" href="#contacto"><span data-i18n="pr.quote">Cotizar</span> →</a>
+      </article>
+      <article class="card reveal">
+        <div class="card-icon">🏥</div>
+        <h3 data-i18n="pr.gmm.t">Gastos Médicos</h3>
+        <p data-i18n="pr.gmm.d">Accede a hospitales privados y especialistas sin que una emergencia de salud se vuelva una deuda.</p>
+        <p class="card-feats" data-i18n="pr.gmm.f">Red hospitalaria amplia · Hospitalización y cirugía · Para ti y tu familia</p>
+        <a class="card-link" data-wa="medicos" href="#contacto"><span data-i18n="pr.quote">Cotizar</span> →</a>
+      </article>
+      <article class="card reveal">
+        <div class="card-icon">💙</div>
+        <h3 data-i18n="pr.vida.t">Seguro de Vida</h3>
+        <p data-i18n="pr.vida.d">La tranquilidad de saber que, pase lo que pase, tu familia queda protegida económicamente.</p>
+        <p class="card-feats" data-i18n="pr.vida.f">Protección para tu familia · Primas accesibles · Opciones con ahorro</p>
+        <a class="card-link" data-wa="vida" href="#contacto"><span data-i18n="pr.quote">Cotizar</span> →</a>
+      </article>
+      <article class="card reveal">
+        <div class="card-icon">🎓</div>
+        <h3 data-i18n="pr.beca.t">Segubecas</h3>
+        <p data-i18n="pr.beca.d">Un plan de ahorro con seguro para garantizar la educación de tus hijos, pase lo que pase.</p>
+        <p class="card-feats" data-i18n="pr.beca.f">Ahorro para su universidad · Protección incluida · Empieza desde que nacen</p>
+        <a class="card-link" data-wa="becas" href="#contacto"><span data-i18n="pr.quote">Cotizar</span> →</a>
+      </article>
+      <article class="card reveal card-cta">
+        <h3 data-i18n="pr.help.t">¿No sabes qué necesitas?</h3>
+        <p data-i18n="pr.help.d">Cuéntame tu momento de vida y te recomiendo solo lo que de verdad te sirve. Sin presión y sin compromiso.</p>
+        <a class="btn btn-gold small" data-wa="general" href="#contacto" data-i18n="hero.ctaWa">Cotizar por WhatsApp</a>
+      </article>
+    </div>
+    <p class="fineprint" data-i18n="pr.fine">*Los beneficios fiscales aplican según la legislación vigente y tu situación personal. Toda cotización es informativa y sin compromiso.</p>
+  </section>
+
+  <!-- ===== PROCESO ===== -->
+  <section class="seccion alt" id="proceso">
+    <p class="sec-kicker reveal" data-i18n="proc.kicker">ASÍ DE FÁCIL</p>
+    <h2 class="sec-title reveal" data-i18n="proc.title">Cotizar toma unos minutos</h2>
+    <div class="steps">
+      <article class="step reveal">
+        <p class="step-num">1</p>
+        <h3 data-i18n="proc.s1t">Escríbeme</h3>
+        <p data-i18n="proc.s1d">Mándame un WhatsApp o llena el formulario contándome qué quieres proteger.</p>
+      </article>
+      <article class="step reveal">
+        <p class="step-num">2</p>
+        <h3 data-i18n="proc.s2t">Comparamos opciones</h3>
+        <p data-i18n="proc.s2d">Te presento las alternativas que se ajustan a tu momento y tu presupuesto, con lenguaje claro.</p>
+      </article>
+      <article class="step reveal">
+        <p class="step-num">3</p>
+        <h3 data-i18n="proc.s3t">Quedas protegido</h3>
+        <p data-i18n="proc.s3d">Contratas con acompañamiento paso a paso y cuentas conmigo durante toda la vida de tu póliza.</p>
+      </article>
+    </div>
+  </section>
+
+  <!-- ===== SOBRE MÍ ===== -->
+  <section class="seccion" id="sobre-mi">
+    <div class="about">
+      <figure class="about-photo reveal">
+        <img src="assets/foto-jaqui.png" alt="Jaqueline Salinas, asesora de seguros">
+      </figure>
+      <div class="about-text reveal">
+        <p class="sec-kicker" data-i18n="about.kicker">SOBRE MÍ</p>
+        <h2 class="sec-title left" data-i18n="about.title">Hola, soy Jaqueline Salinas</h2>
+        <p data-i18n="about.d1">Soy asesora de seguros y mi trabajo es que entiendas exactamente qué estás contratando: sin letras chicas ni presiones.</p>
+        <p data-i18n="about.d2">Te acompaño a elegir la protección ideal para ti y tu familia —auto, salud, vida, retiro y la educación de tus hijos— y sigo a tu lado cuando la necesites usar.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== PREGUNTAS ===== -->
+  <section class="seccion alt" id="preguntas">
+    <p class="sec-kicker reveal" data-i18n="faq.kicker">DUDAS FRECUENTES</p>
+    <h2 class="sec-title reveal" data-i18n="faq.title">Preguntas frecuentes</h2>
+    <div class="faq reveal">
+      <div class="faq-item">
+        <button class="faq-q" type="button" data-i18n="faq.q1">¿Cuánto cuesta un seguro?</button>
+        <div class="faq-a"><p data-i18n="faq.a1">Depende del tipo de seguro, la cobertura y tu perfil. Por eso la cotización es personalizada y sin costo: en minutos sabes tu precio real.</p></div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-q" type="button" data-i18n="faq.q2">¿Qué es un Plan Personal de Retiro (PPR)?</button>
+        <div class="faq-a"><p data-i18n="faq.a2">Es un plan de ahorro a largo plazo pensado para tu retiro, con posibles beneficios fiscales según la ley vigente. Mientras más joven empiezas, menos aportas al mes.</p></div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-q" type="button" data-i18n="faq.q3">¿Qué cubre un seguro de gastos médicos?</button>
+        <div class="faq-a"><p data-i18n="faq.a3">Según la póliza: hospitalización, cirugías, honorarios médicos y emergencias en hospitales privados. Revisamos juntos deducible, coaseguro y la red hospitalaria de tu ciudad.</p></div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-q" type="button" data-i18n="faq.q4">¿Qué es una segubeca?</button>
+        <div class="faq-a"><p data-i18n="faq.a4">Es un seguro con ahorro programado para la educación de tus hijos: si llegaras a faltar, el plan continúa y su universidad queda garantizada.</p></div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-q" type="button" data-i18n="faq.q5">¿Cómo empiezo?</button>
+        <div class="faq-a"><p data-i18n="faq.a5">Escríbeme por WhatsApp o llena el formulario de abajo. Te respondo el mismo día y cotizamos sin compromiso.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== CONTACTO ===== -->
+  <section class="seccion" id="contacto">
+    <p class="sec-kicker reveal" data-i18n="ct.kicker">CONTACTO</p>
+    <h2 class="sec-title reveal" data-i18n="ct.title">Hablemos de tu protección</h2>
+    <p class="ct-sub reveal" data-i18n="ct.sub">Elige cómo prefieres empezar: mensaje directo o formulario. Te respondo personalmente.</p>
+    <div class="ct-cards">
+      <article class="ct-card reveal">
+        <h3 data-i18n="ct.wa.t">WhatsApp</h3>
+        <p data-i18n="ct.wa.d">La forma más rápida: cuéntame qué quieres cotizar y te respondo el mismo día.</p>
+        <a class="btn btn-gold" data-wa="general" href="#contacto" data-i18n="ct.wa.btn">Enviar mensaje</a>
+      </article>
+      <article class="ct-card reveal" id="formulario">
+        <h3 data-i18n="ct.form.t">Formulario de cotización</h3>
+        <p data-i18n="ct.form.d">Llena el formulario de Google con tus datos y lo que buscas proteger; con eso preparo tu cotización.</p>
+        <a class="btn btn-teal" data-form href="#formulario" data-i18n="ct.form.btn">Abrir el formulario</a>
+      </article>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <img src="assets/shield.png" alt="" class="foot-shield">
+  <p class="foot-brand">JAQUI SALINAS · SEGUROS</p>
+  <p data-i18n="foot.line">Asesoría personal en seguros de auto, retiro, gastos médicos, vida y segubecas.</p>
+  <p class="foot-credit"><span data-i18n="foot.credit">Sitio creado por</span> <a href="https://tec-girl.github.io/" target="_blank" rel="noopener">Tec Girl</a> · © 2026 Jaqui Salinas Seguros</p>
+</footer>
+
+<a class="wa-float" data-wa="general" href="#contacto" aria-label="WhatsApp">
+  <svg viewBox="0 0 32 32" width="30" height="30" fill="currentColor" aria-hidden="true"><path d="M16 3C9.4 3 4 8.4 4 15c0 2.4.7 4.6 2 6.4L4 29l7.8-2c1.3.6 2.7 1 4.2 1 6.6 0 12-5.4 12-12S22.6 3 16 3zm0 21.8c-1.3 0-2.6-.3-3.7-.9l-.3-.2-4.6 1.2 1.2-4.5-.2-.3c-.8-1.2-1.2-2.6-1.2-4.1 0-5.4 4.4-9.8 9.8-9.8S25.8 9.6 25.8 15 21.4 24.8 16 24.8zm5.4-7.1c-.3-.2-1.8-.9-2-1-.3-.1-.5-.2-.7.1-.2.3-.8 1-.9 1.1-.2.2-.3.2-.6.1-.3-.2-1.3-.5-2.4-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.5.1-.6l.5-.5c.1-.2.2-.3.3-.5.1-.2 0-.4 0-.5l-.9-2.2c-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5s1.1 2.9 1.2 3.1c.2.2 2.1 3.2 5.1 4.5.7.3 1.3.5 1.7.6.7.2 1.4.2 1.9.1.6-.1 1.8-.7 2-1.4.3-.7.3-1.3.2-1.4-.1-.1-.3-.2-.6-.4z"/></svg>
+</a>
+
+<script src="script.js"></script>
+</body>
+</html>
